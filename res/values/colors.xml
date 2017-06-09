@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="griditems_bg">#ffe8ecef</color>
+    <color name="commo_text_color">#ff333333</color>
+    <color name="line">#ffd3dde6</color>
+
+    <!-- 白色 -->
+    <color name="transparent">#00000000</color>
+    <color name="white">#FFFFFF</color>
+    <!-- 黑色 -->
+    <color name="black">#000000</color>
+    <!-- 红色 -->
+    <color name="red">#ffff0000</color>
+    <!-- 深红色 -->
+    <color name="red1">#FA1955</color>
+    <color name="red2">#ff4e40</color>
+    <color name="red3">#fd6e0e</color>
+    <!-- 橘黄色 -->
+    <color name="croci">#1d80d3</color>
+    <color name="croci4">#aaaaaa</color>
+    <color name="croci5">#f89802</color>
+    <color name="croci6">#1d80d3</color>
+    <color name="croci7">#ffaf02</color>
+    <color name="croci8">#fbc80d</color>
+    <color name="titlecolor">#1d80d3</color>
+    <!-- 淡淡橘黄色 -->
+    <color name="croci1">#F9E9D0</color>
+    <!-- 淡橘黄色 -->
+    <color name="croci2">#F6DFB6</color>
+    <!-- 蓝色 -->
+    <color name="blue">#21C5FC</color>
+    <color name="blue6">#1a84d2</color>
+    <color name="blues">#238be4</color>
+    <color name="blue5">#1175c0</color>
+    <color name="blue7">#2283d4</color>
+    <!-- 淡蓝色 -->
+    <color name="blue1">#DCE6F3</color>
+    <color name="blue2">#33a9f3</color>
+    <color name="blue3">#1d80d3</color>
+    <color name="blue4">#31aaf3</color>
+    <!-- 棕色 -->
+    <color name="brown">#B18751</color>
+
+    <!-- 灰色 -->
+    <!-- 灰色 -->
+    <color name="gray17">#b3b3b3</color>
+    <color name="gray15">#f6f4f5</color>
+    <color name="gray6">#999999</color>
+    <color name="gray1">#efeff4</color>
+    <color name="gray18">#bfbfc1</color>
+    <color name="gray">#8d8d8d</color>
+    <color name="gray21">#dfe0db</color>
+    <color name="gray20">#999999</color>
+    <color name="gray5">#cacaca</color>
+    <color name="gray7">#333333</color>
+    <color name="gray14">#666666</color>
+    <color name="text1">#565656</color>
+    <color name="bg">#ebebec</color>
+    <color name="tab_bg">#f6f6f6</color>
+    <color name="gray2">#D2D2D2</color>
+    <color name="gray8">#d3d3d3</color>
+    <color name="gray9">#e0e1e5</color>
+    <color name="gray11">#f0eff5</color>
+    <color name="gray22">#f1f1f1</color>
+    <color name="gray12">#5d5d5d</color>
+    <color name="gray10">#F6F6F6</color>
+    <color name="gray3">#E5E5E5</color>
+    <color name="gray13">#efeff7</color>
+    <color name="gray16">#e4e5e7</color>
+    <color name="gray4">#fd7215</color>
+    <color name="light_grey">#A7A7A7</color>
+    <!-- 白灰色 -->
+    <color name="whitegray">#ECECEC</color>
+    <!-- 标题背景 -->
+    <color name="title_back">#245AB0</color>
+
+</resources>
